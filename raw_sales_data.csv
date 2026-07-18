@@ -1,0 +1,11 @@
+Invoice_No,Customer_Name,Product_Code,Sale_Date,Quantity,Price_Per_Unit,Region
+1001,  rehman khan ,PROD_01,2026-07-01,5,12.5,North
+1002,REHMAN KHAN,prod_01,02/07/2026,2,12.5,north
+1003,john doe,PROD_02,07-03-2026,10,25.0,South
+1004,John   Doe,02,2026/07/04,1,25.0,  South
+1005,Alice Smith,PROD_03,05-07-2026,3,50.0,East
+1006,alice smith,PROD_03 ,2026-07-06,6,50.0,East
+1007,bob,PROD_04,07/07/2026, 4 ,15.75,West
+1008,BOB ,PROD_04,2026.07.08,2,15.75,west
+1009,,PROD_01,,5,12.5,North
+1010,Yasmin Ahmed,PROD_05,10/07/2026,1,100.0,Central
